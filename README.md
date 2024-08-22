@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+🔭 I’m a Neuroscience PhD student in the Mostany Lab at Tulane's School of Medicine
+🌱 I’m interested in getting the basics of programming so I can work with my neuroscience data in new ways
+⚡ Fun fact: I play as a forward in the Crescent City Rougaroux rugby club!
+
 <!--
 **zplumley/zplumley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
